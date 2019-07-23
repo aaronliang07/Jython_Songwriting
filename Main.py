@@ -1,7 +1,3 @@
-"""BUGS
-adjacent note condition/probability doesn't work
-"""
-
 from music import *        # import music library
 import random
 
