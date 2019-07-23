@@ -2,6 +2,7 @@
 
 A program which generates songs using user inputted values and contemporary music theory.
 
-Continuously updated.
+To run the program, follow the instructions on the Jython Music website:
+https://jythonmusic.me/download/
 
-Made with Jython Music.
+Copy and paste the code into the JEM editor, and enjoy!
