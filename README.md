@@ -1,4 +1,4 @@
-# Jython_songwriting
+# Jython_Songwriting
 
 A program which generates random melodies and chord progressions according to user inputted values and contemporary music theory.
 Programmed using the Python language and the Jython Music library. 
