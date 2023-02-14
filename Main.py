@@ -308,7 +308,6 @@ Things to add
 -Error-handling and list available scales in prompts
 -Add a probability to the long notes being a chord tone (don't make it certain)
 -Sort melody dictionary
--Ban certain bad sounding instruments from being picked
 -Make half-note chords less frequent than whole-note chords
 -Change the UI
 -Export score as an mp3 file
